@@ -1,0 +1,20 @@
+ID: 1
+Naziv: kajsija
+Cena: 100
+=========================
+ID: 2
+Naziv: breskva
+Cena: 120
+=========================
+ID: 3
+Naziv: banana
+Cena: 150
+=========================
+ID: 4
+Naziv: jagode
+Cena: 300
+=========================
+ID: 5
+Naziv: limun
+Cena: 100
+=========================
