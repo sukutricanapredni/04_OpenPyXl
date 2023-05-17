@@ -1,0 +1,5 @@
+Koka Kola|50|140
+Pivo|100|150
+Espreso|200|130
+Narandza|50|230
+Limunada|60|200
